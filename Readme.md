@@ -1,1 +1,1 @@
-this repository contains all the python related stuff
+This repository contains all the python related stuff
